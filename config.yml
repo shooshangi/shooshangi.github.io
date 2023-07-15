@@ -2,3 +2,37 @@ baseURL: "https://shooshangi.github.io/"
 languageCode: en-us
 theme: resume
 title: "Sara Hooshangi"
+PygmentsCodeFences: true
+PygmentsCodeFencesGuessSyntax: true
+PygmentsStyle: "monokai"
+enableGitInfo: false
+
+params:
+  address: "Falls Church, VA"
+  email: "shoosh@vt.com"
+  favicon: "/favicon.ico"
+  firstName: "Sara"
+  lastName: "Hooshangi"
+  phone: "1-555-555-1234"
+  profileImage: "https://media.licdn.com/dms/image/C4E03AQFGsChu6VEk8A/profile-displayphoto-shrink_800_800/0/1582228014042?e=1694649600&v=beta&t=aRE8esHRFo6oqYjefCnPuKzXOL9-LGYQoOjbW5hLC64"
+  showEducation: true
+  showExperience: true
+  showOpenSource: true
+  showProjects: true
+  showPublications: true
+  showQr: true
+  showSkills: true
+  google:
+    analytics:
+      trackerID: "XX-123446-01"
+  handles:
+    - link: "https://www.linkedin.com/in/sara-hooshangi-5554942/"
+      name: "LinkedIn"
+    - link: "https://github.com/shooshangi"
+      name: "GitHub"
+
+outputs:
+  home: ["HTML", "JSON"]
+
+taxonomies:
+  tag: "tags"
