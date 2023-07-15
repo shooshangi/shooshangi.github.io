@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash/shell on Sara Hooshangi</title>
+    <link>https://shooshangi.github.io/tags/bash/shell/</link>
+    <description>Recent content in bash/shell on Sara Hooshangi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://shooshangi.github.io/tags/bash/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>https://shooshangi.github.io/projects/creations/project-1/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://shooshangi.github.io/projects/creations/project-1/</guid>
+      <description>PROJECT 1 &amp;ldquo;&amp;hellip; Lorem Ipsum is simply dummy text of the printing and typesetting industry.&amp;rdquo; Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://shooshangi.github.io/projects/creations/project-2/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://shooshangi.github.io/projects/creations/project-2/</guid>
+      <description>Project 2 &amp;ldquo;&amp;hellip; Lorem Ipsum is simply dummy text of the printing and typesetting industry.&amp;rdquo; Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+  </channel>
+</rss>
